@@ -1,2 +1,4 @@
 # Button-Tracker
-An app dedicated for tracking buttons that moves/positioned across the screen and click them
+-INTRUCTIONS-
+1.Download the setup
+2.Set the settings
